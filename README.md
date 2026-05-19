@@ -86,7 +86,7 @@ A cohesive design system that looks stunning in any color scheme.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/orafael93/toolbox-for-devs.git
+    git clone https://github.com/orafaeldev/toolbox-for-devs.git
     ```
 2.  Navigate to the project directory:
     ```bash
