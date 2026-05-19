@@ -17,10 +17,6 @@ This tool was built to save time and stay focused on complex feature development
 
 ![Toolbox for Devs Demo](./public/gifs/project-in-action.gif)
 
-## 🔗 Live Preview
-
-Check out the live version of the application here: [https://toolbox-for-devs.orafael.dev/](https://toolbox-for-devs.orafael.dev/)
-
 ## ✨ Key Features
 
 ### 1. Request to cURL Builder
@@ -116,4 +112,4 @@ The app will be available at `http://localhost:5173/toolbox-for-devs`.
 **Rafael Pereira**
 
 - Email: orafaeldev@gmail.com
-- GitHub: [@orafael93](https://github.com/orafael93)
+- GitHub: [@orafaeldev](https://github.com/orafaeldev)
